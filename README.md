@@ -25,9 +25,10 @@ Things you need to install the software and how to install them:
 ## Built With:
 
 * Java
-* Thymeleaf
-* gradle
-* inteeliJ (Java IDE)
+* Thymeleaf (server-side Java template engine) 
+* Spring Boot (Java-based framework to create a micro Service.)
+* gradle (a build management system)
+* inteelliJ (Java IDE)
 
 ## Contributing:
 
